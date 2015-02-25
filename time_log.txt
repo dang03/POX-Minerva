@@ -1,5 +1,127 @@
-Packet_In Time: 2014-11-04 17:45:46.211170
-Packet_In Time: 2014-11-04 17:45:52.726283
-Packet_In Time: 2014-11-04 17:45:58.836325
-1415195659.42
-1415195751.58
+Link Failure Simulation Raised at: 22:35.050
+B-Packet_In DPID:00-00-00-00-00-02 Time: 22:36.825 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 22:39.988 
+Link Failure Simulation Raised at: 22:45.080
+A-Packet_In DPID:00-00-00-00-00-02 Time: 22:46.161 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 22:49.321 
+Link Failure Simulation Raised at: 22:55.128
+B-Packet_In DPID:00-00-00-00-00-02 Time: 22:55.498 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 22:58.656 
+Link Failure Simulation Raised at: 23:05.131
+A-Packet_In DPID:00-00-00-00-00-02 Time: 23:05.853 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 23:09.010 
+Link Failure Simulation Raised at: 23:15.169
+B-Packet_In DPID:00-00-00-00-00-02 Time: 23:16.206 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 23:19.364 
+Link Failure Simulation Raised at: 23:25.171
+A-Packet_In DPID:00-00-00-00-00-02 Time: 23:25.539 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 23:28.698 
+Link Failure Simulation Raised at: 23:35.173
+B-Packet_In DPID:00-00-00-00-00-02 Time: 23:35.996 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 23:39.154 
+Link Failure Simulation Raised at: 23:45.213
+A-Packet_In DPID:00-00-00-00-00-02 Time: 23:45.334 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 23:48.492 
+Link Failure Simulation Raised at: 23:55.219
+B-Packet_In DPID:00-00-00-00-00-02 Time: 23:55.639 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 23:58.798 
+Link Failure Simulation Raised at: 24:05.223
+A-Packet_In DPID:00-00-00-00-00-02 Time: 24:05.994 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 24:09.155 
+Link Failure Simulation Raised at: 24:15.268
+B-Packet_In DPID:00-00-00-00-00-02 Time: 24:15.289 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 24:18.497 
+Link Failure Simulation Raised at: 24:25.271
+A-Packet_In DPID:00-00-00-00-00-02 Time: 24:25.742 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 24:28.949 
+Link Failure Simulation Raised at: 24:35.273
+B-Packet_In DPID:00-00-00-00-00-02 Time: 24:36.095 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 24:39.252 
+Link Failure Simulation Raised at: 24:45.310
+A-Packet_In DPID:00-00-00-00-00-02 Time: 24:45.429 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 24:48.587 
+Link Failure Simulation Raised at: 24:55.311
+B-Packet_In DPID:00-00-00-00-00-02 Time: 24:55.782 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 24:58.940 
+Link Failure Simulation Raised at: 25:05.318
+A-Packet_In DPID:00-00-00-00-00-02 Time: 25:06.240 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 25:09.402 
+Link Failure Simulation Raised at: 25:15.359
+B-Packet_In DPID:00-00-00-00-00-02 Time: 25:15.576 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 25:18.732 
+Link Failure Simulation Raised at: 25:25.407
+A-Packet_In DPID:00-00-00-00-00-02 Time: 25:25.877 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 25:29.036 
+Link Failure Simulation Raised at: 25:35.413
+B-Packet_In DPID:00-00-00-00-00-02 Time: 25:36.233 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 25:39.394 
+Link Failure Simulation Raised at: 25:45.452
+A-Packet_In DPID:00-00-00-00-00-02 Time: 25:45.570 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 25:48.728 
+Link Failure Simulation Raised at: 25:55.452
+B-Packet_In DPID:00-00-00-00-00-02 Time: 25:56.024 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 25:59.184 
+Link Failure Simulation Raised at: 26:05.463
+A-Packet_In DPID:00-00-00-00-00-02 Time: 26:06.335 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 26:09.496 
+Link Failure Simulation Raised at: 26:15.505
+B-Packet_In DPID:00-00-00-00-00-02 Time: 26:15.672 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 26:18.828 
+Link Failure Simulation Raised at: 26:25.555
+A-Packet_In DPID:00-00-00-00-00-02 Time: 26:26.026 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 26:29.184 
+Link Failure Simulation Raised at: 26:35.557
+B-Packet_In DPID:00-00-00-00-00-02 Time: 26:36.479 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 26:39.637 
+Link Failure Simulation Raised at: 26:45.595
+A-Packet_In DPID:00-00-00-00-00-02 Time: 26:45.811 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 26:48.970 
+Link Failure Simulation Raised at: 26:55.596
+B-Packet_In DPID:00-00-00-00-00-02 Time: 26:56.118 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 26:59.275 
+Link Failure Simulation Raised at: 27:05.600
+A-Packet_In DPID:00-00-00-00-00-02 Time: 27:06.472 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 27:09.629 
+Link Failure Simulation Raised at: 27:15.636
+B-Packet_In DPID:00-00-00-00-00-02 Time: 27:15.803 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 27:18.960 
+Link Failure Simulation Raised at: 27:25.686
+A-Packet_In DPID:00-00-00-00-00-02 Time: 27:26.256 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 27:29.418 
+Link Failure Simulation Raised at: 27:35.694
+B-Packet_In DPID:00-00-00-00-00-02 Time: 27:36.616 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 27:39.773 
+Link Failure Simulation Raised at: 27:45.730
+A-Packet_In DPID:00-00-00-00-00-02 Time: 27:45.946 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 27:49.102 
+Link Failure Simulation Raised at: 27:55.778
+B-Packet_In DPID:00-00-00-00-00-02 Time: 27:56.249 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 27:59.408 
+Link Failure Simulation Raised at: 28:05.785
+A-Packet_In DPID:00-00-00-00-00-02 Time: 28:06.707 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 28:09.863 
+Link Failure Simulation Raised at: 28:15.824
+B-Packet_In DPID:00-00-00-00-00-02 Time: 28:16.041 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 28:19.199 
+Link Failure Simulation Raised at: 28:25.824
+A-Packet_In DPID:00-00-00-00-00-02 Time: 28:26.395 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 28:29.553 
+Link Failure Simulation Raised at: 28:35.827
+B-Packet_In DPID:00-00-00-00-00-02 Time: 28:36.702 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 28:39.861 
+Link Failure Simulation Raised at: 28:45.871
+A-Packet_In DPID:00-00-00-00-00-02 Time: 28:46.039 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 28:49.198 
+Link Failure Simulation Raised at: 28:55.875
+B-Packet_In DPID:00-00-00-00-00-02 Time: 28:56.496 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 28:59.653 
+Link Failure Simulation Raised at: 29:05.914
+A-Packet_In DPID:00-00-00-00-00-02 Time: 29:06.835 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 29:09.994 
+Link Failure Simulation Raised at: 29:15.954
+B-Packet_In DPID:00-00-00-00-00-02 Time: 29:16.172 
+B-Packet_In DPID:00-00-00-00-00-03 Time: 29:19.330 
+Link Failure Simulation Raised at: 29:26.004
+A-Packet_In DPID:00-00-00-00-00-02 Time: 29:26.525 
+A-Packet_In DPID:00-00-00-00-00-03 Time: 29:29.682 
+Link Failure Simulation Raised at: 29:36.005
